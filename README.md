@@ -1,3 +1,4 @@
+
 # SimpleRecycleView
 Introduce
 ---------
@@ -8,3 +9,9 @@ Usage
 dependencies {<br>
 　　　  compile 'com.simplerecycleview:simplerecycleview:1.0.0'<br>
 }<br>
+
+About
+-----
+      有问题欢迎交流<br>
+       QQ:1251600274(邮箱)
+       
