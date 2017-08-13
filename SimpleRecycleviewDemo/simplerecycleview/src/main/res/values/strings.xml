@@ -1,0 +1,5 @@
+<resources>
+    <string name="loading">加载中</string>
+    <string name="pulldowntorefresh">下拉刷新</string>
+    <string name="nodata">别扯了，没有了</string>
+</resources>
