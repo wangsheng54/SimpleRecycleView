@@ -7,7 +7,7 @@ Introduce
 Usage
 ----
 dependencies {<br>
-　　　  compile 'com.simplerecycleview:simplerecycleview:1.0.0'<br>
+　　　  compile 'com.simplerecycleview:simplerecycleview:1.0.2'<br>
 }<br>
 
 About
